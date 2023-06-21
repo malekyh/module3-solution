@@ -1,1 +1,33 @@
+.navbar {
+  transition: all 0.3s;
+  --bs-navbar-brand-margin-end: 0.8rem;
+  visibility: visible;
+}
 
+.navbar-brand {
+  margin-left: 15px;
+  height: auto;
+  visibility:visible;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.tall-section {
+  height: auto; /* Adjust the height as desired */
+  background-color: #f5f5f5; /* Add your preferred background color */
+}
+.dropdown-menu {
+  width: 100vw;
+  background-color: #f8f9fa;
+}
+
+
+.nav-item{
+  text-align: left;
+}
+.col-xs-12 ,h1{
+  text-align: center;
+}
+.container{
+  margin-top: 15px;
+}
